@@ -23,7 +23,7 @@ não um bom aproveitamento (se ficou acima da média 7.0).*/
         System.out.println("Média do aluno " + aluno + ": " + media);
 
         if (media >= 7) {
-            System.out.println("Aluno" + aluno + " com bom aproveitamento. " );
+            System.out.println("Aluno " + aluno + " com bom aproveitamento. " );
         } else {
             System.out.println("Aluno " +aluno+"com aproveitamento abaixo da média. " );
         }
